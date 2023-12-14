@@ -1,8 +1,8 @@
-### Hi there, I'm Timo! 👋
+## Hi there, I'm Timo! 👋
 
 I'm a passionate software developer with a love for crafting elegant solutions and exploring the ever-evolving landscape of technology. My coding journey started [Number of Years] years ago, and since then, I've been on a continuous quest for knowledge and mastery.
 
-#### Current Focus:
+### Current Focus:
 
 - 🚀 Currently, I'm immersed in projects that leverage my tech stack to build scalable and efficient applications.
 - 🌱 Always exploring new frameworks and tools to stay at the forefront of technology.
@@ -31,7 +31,7 @@ I'm a passionate software developer with a love for crafting elegant solutions a
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
 </p>
 
-#### How to Connect:
+### How to Connect:
 
 - 📧 Feel free to shoot me an email at <hyb@gmx.net>.
 
