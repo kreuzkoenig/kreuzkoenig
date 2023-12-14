@@ -12,7 +12,6 @@ I'm a passionate software developer with a love for crafting elegant solutions a
 
 - 🚀 Currently, I'm immersed in projects that leverage my tech stack to build scalable and efficient applications.
 - 🌱 Always exploring new frameworks and tools to stay at the forefront of technology.
-- 🎯 My current interests include optimizing applications to become scalable and secure.
 
 #### How to Connect:
 
