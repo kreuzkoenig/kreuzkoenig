@@ -7,7 +7,6 @@ I'm a passionate software developer with a love for crafting elegant solutions a
 - 🚀 Currently, I'm immersed in projects that leverage my tech stack to build scalable and efficient applications.
 - 🌱 Always exploring new frameworks and tools to stay at the forefront of technology.
 
-### Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
