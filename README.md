@@ -1,6 +1,6 @@
 ## Hi there, I'm Timo! 👋
 
-I'm a passionate software developer with a love for crafting elegant solutions and exploring the ever-evolving landscape of technology. My coding journey started [Number of Years] years ago, and since then, I've been on a continuous quest for knowledge and mastery.
+I'm a passionate software developer with a love for crafting elegant solutions and exploring the ever-evolving landscape of technology. My coding journey started some years ago, and since then, I've been on a continuous quest for knowledge and mastery.
 
 ### Current Focus:
 
